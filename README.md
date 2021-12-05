@@ -17,7 +17,6 @@
 
 :outbox_tray: 2022 Goals: create a new project and studying.
 
-![Snake animation](https://github.com/wesleysimili/wesleysimili/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/wesleysimili">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysimili&layout=compact&langs_count=7&theme=dracula"/>
